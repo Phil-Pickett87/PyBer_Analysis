@@ -14,6 +14,10 @@
   ![image](https://user-images.githubusercontent.com/71112085/98055757-17e3de00-1df3-11eb-9b63-05af2521f744.png)
   
   
+![PyBer_fare_summary](https://user-images.githubusercontent.com/71112085/98056014-b5d7a880-1df3-11eb-9d7e-c16cd16d3432.png)
+
+  
+  
   
   
   ## Summary
